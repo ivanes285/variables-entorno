@@ -1,0 +1,15 @@
+{
+  "name": "variables-entorno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "author": "Ivan Lescano",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^8.2.0"
+  }
+}
