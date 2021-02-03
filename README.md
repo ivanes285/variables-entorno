@@ -3,7 +3,7 @@
 En esta app de ejemplo se hace uso de los modulos como dotenv y crossenv que nos permiten 
 manejar nuestras variables de entorno(constraseñas,tokens,apikey), las cuales NUNCA se deben publicar o 
 dejar visibles en el codigo ya que estas pueden ser vulneradas.
-
+# Nota
 Nota: En Nodejs existe una variable global llamada process la cual es un objeto que contiene toda la 
 información de nuestro sistema entonces con process.env. podemos acceder a una variable de entorno que 
 tengamos en nuestro sistema o que agreguemos.
